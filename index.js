@@ -22,21 +22,3 @@ app.use(routes);
 
 app.listen(3333, () => console.log('Server is running on port 3333'));
 
-// rotas
-// - listar startups
-// - falando sobre o INSMONIA
-// - criar startup 
-// - alterar startups
-// - deletar startups
-
-// - criar item
-// - deletar item
-// - listar itens
-
-// - criar uma sessão
-
-// hash passwords
-// controle sessão com o jwt
-// deploy dessa API no heroku
-
-// começar o desenvolvimento do frontend
